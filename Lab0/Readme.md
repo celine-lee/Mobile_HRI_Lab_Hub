@@ -572,5 +572,18 @@ You should be able to see both of your nodes connected through the topic.
 
 
 1. Link to the folder of a ROS package that contains a publisher and a subscriber 
+
+this repo: `my_package`
+
 2. List 5 questions you have about ROS following the tutorial, answers you have found and things you still don't get
+
+### 5 Questions:
+- What do we do if the publisher and subscriber are on differeent networks? --> I guess this is for later labs. Use the IP address: https://roboticsbackend.com/ros2-multiple-machines-including-raspberry-pi/
+- Can a single node be both a publisher and subscriber? --> Looks like it: https://answers.ros.org/question/383279/ros2-publish-and-subscribe-in-same-node/
+- What effects can a super small or super large timer interval have? I bet large timer intervals don't make a huge difference so long as all other messagers in the network understand that is the case. But I bet with too short a timer inverval, we may face network overload or race conditions?
+- When spinning a node, can we add conditionals or nondeterminism? --> I imagine this has to do with the `timer_callback()` function. Can we add arguments to the function call? Or do we have to use the object's variables?
+- What is this `self.i` we are incrementing? --> It is adding an index to the printout of the publisher message. I can imagine this might help us see if messages are being sent out-of-order or something. Are there some downstream applications of this as well?
+
 3. Feedback on the bootcamp: What was easy and what was difficult to understand?
+
+I found the bootcamp super easy to follow. Thanks for checkpointing every few steps so that I could sanity check my folder structure and code. I also appreciate the line-by-line explanation. 
