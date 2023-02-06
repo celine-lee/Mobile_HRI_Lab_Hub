@@ -1,5 +1,8 @@
 # Interaction First
 \*\***List the names and NetID for your partners here.**\*\*
+Antony Tahan at674
+Arushi Nigam an452
+Celine Lee cl923 
 
 In this lab, you will modify a robotic creature (ConeBot) that is originally designed by [Dr. Rei Lee](https://infosci.cornell.edu/~reilee/), a friend of our lab. The [ConeBot](https://infosci.cornell.edu/~reilee/ConeBot/) is a shy robot that hides under a small traffic cone. It is adventuring the world by itself but hopes people don't notice it at all.
 
@@ -86,6 +89,10 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 ## Part C. Act out the Interaction
 
 Select 3 of the 5 storyboards to act out. Try physically enacting the 3 interactions you planned with your teammates. (Do not plug in the CloneBot just yet.) Record these video clips, and submit them (Unlisted Youtube links are fine).
+
+https://drive.google.com/file/d/14LkTUb5f0pZVXEnBhFjCQ6FdZHmBqMVn/view?usp=sharing
+https://drive.google.com/file/d/1bN9i7J9CKyIOfrkgR83wAZUQVWHy2HUY/view?usp=sharing
+https://drive.google.com/file/d/1ncvp5-ThMcGl3NzvJei6AfBW6avlvQoj/view?usp=sharing
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 One thing that we failed to consider when writing the story boards is how relative size can play a role in the interaction. Realistically, the clone bot is much smaller than ourselves so you hear it well before you notice it visually or via contact.
