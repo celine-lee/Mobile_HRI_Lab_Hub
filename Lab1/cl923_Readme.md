@@ -83,8 +83,8 @@ Leverage the possible motions of Clonebot and the extra degree of freedom provid
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch five storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the CloneBot and the other characters in the scene. 
 
 \*\***Include pictures of your storyboards here**\*\*
-![alt text](https://github.com/celine-lee/mobile_hri_lab_hub/main/Lab1/storyboards_1.jpg?raw=true)
-![alt text](https://github.com/celine-lee/mobile_hri_lab_hub/main/Lab1/storyboards_2.jpg?raw=true)
+![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab1/storyboards_1.jpg?raw=true)
+![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab1/storyboards_2.jpg?raw=true)
 
 ## Part C. Act out the Interaction
 
