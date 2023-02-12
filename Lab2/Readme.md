@@ -65,7 +65,7 @@ We are interested in using the same sites as we planned in lab 1: a general open
 ![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab1/storyboards_2.jpg?raw=true)
 
 And below is a photo of the area under consideration:
-![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/mummy_front_.jpg?raw=true)
+![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/mummy_front.jpg?raw=true)
 
 
 \*\***Document the activities being considered.**\*\*
