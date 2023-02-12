@@ -60,8 +60,13 @@ What other people and objects are in that space?
 What activities are going on in that space? What activity is the robot going to be involved in?
 
 \*\***Sketch and/or take photos of the site(s) you are considering.**\*\*
+We are interested in using the same sites as we planned in lab 1: a general open area for the scare bot, an office for the office bot, and an open floor area for the dance bot. Below are our story board sketches:
 ![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab1/storyboards_1.jpg?raw=true)
 ![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab1/storyboards_2.jpg?raw=true)
+
+And below is a photo of the area under consideration:
+![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/mummy_over.jpeg?raw=true)
+
 
 \*\***Document the activities being considered.**\*\*
 We are continuing to consider the interactions proposed last week: (1) the robot uses its light and sudden movement to scare somebody, (2) the robot bumps into colleagues in the break room, and (3) the robot enters a dance circle and shows off its moves. 
@@ -85,10 +90,8 @@ Pick one of the custumes and make it with paper or cardboard or any other materi
 ![robot sketches](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/drawings.jpeg?raw=true)
 
 \*\***Include photos of your custumed robot here.**\*\*
-![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/mummy0.heic?raw=true)
-![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/mummy1.heic?raw=true)
-![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/mummy2.heic?raw=true)
-![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/mummy3.heic?raw=true)
+![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/dancer.jpeg?raw=true)
+![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/mummy_front.jpeg?raw=true)
 
 
 \*\***What concerns or opportunitities are influencing the way you've designed the robot to look?**\*\*
@@ -101,6 +104,11 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 In one of our early attempts, we wanted to see how the robot might run on a table surface. Notice in the video that when it does the spinning, we are unsure whether it may fall off the table. 
 https://drive.google.com/file/d/1sJqXTiov7X8wDH5Zo0zI2yUDkdIj0PVP/view?usp=share_link
+
+Also we include photos of us figuring out the framing for the shot:
+![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/mummy_over.jpeg?raw=true)
+![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/mummy_pov.jpeg?raw=true)
+
 
 \*\***Show the follow-up work here.**\*\*
 In our final interaction, we moved to a longer table and only operated the forward and light movements.
