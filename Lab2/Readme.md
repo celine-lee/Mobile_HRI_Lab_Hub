@@ -65,7 +65,7 @@ We are interested in using the same sites as we planned in lab 1: a general open
 ![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab1/storyboards_2.jpg?raw=true)
 
 And below is a photo of the area under consideration:
-![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/mummy_over.jpeg?raw=true)
+![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/mummy_front_.jpg?raw=true)
 
 
 \*\***Document the activities being considered.**\*\*
@@ -87,11 +87,11 @@ Think about the setting of the device: is the environment a place where the devi
 Pick one of the custumes and make it with paper or cardboard or any other material!
 
 \*\***Include sketches of what your robot might look like here.**\*\*
-![robot sketches](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/drawings.jpeg?raw=true)
+![robot sketches](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/drawings.jpg?raw=true)
 
 \*\***Include photos of your custumed robot here.**\*\*
-![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/dancer.jpeg?raw=true)
-![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/mummy_front.jpeg?raw=true)
+![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/dancer.jpg?raw=true)
+![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/mummy_front.jpg?raw=true)
 
 
 \*\***What concerns or opportunitities are influencing the way you've designed the robot to look?**\*\*
