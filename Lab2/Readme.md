@@ -87,7 +87,7 @@ Think about the setting of the device: is the environment a place where the devi
 Pick one of the custumes and make it with paper or cardboard or any other material!
 
 \*\***Include sketches of what your robot might look like here.**\*\*
-![robot sketches](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/drawings.jpg?raw=true)
+![robot sketches](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/drawings.jpeg?raw=true)
 
 \*\***Include photos of your custumed robot here.**\*\*
 ![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/dancer.jpg?raw=true)
@@ -106,8 +106,8 @@ In one of our early attempts, we wanted to see how the robot might run on a tabl
 https://drive.google.com/file/d/1sJqXTiov7X8wDH5Zo0zI2yUDkdIj0PVP/view?usp=share_link
 
 Also we include photos of us figuring out the framing for the shot:
-![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/mummy_over.jpeg?raw=true)
-![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/mummy_pov.jpeg?raw=true)
+![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/mummy_overhead.jpg?raw=true)
+![alt text](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab2/mummy_pov.jpg?raw=true)
 
 
 \*\***Show the follow-up work here.**\*\*
