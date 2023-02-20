@@ -1,5 +1,9 @@
 # Then Prototype the Robot
 **List the names and NetID for your partners here.**
+Celine Lee (cl923)
+Antony Tahan (at675)
+Arushi Nigam (an452)
+
 
 This week's lab is a continuation of the previous week. We explore the role of both *siting*--the location and activity--in interaction, as well as the *form and appearance* of the robot in the interaction.
 
