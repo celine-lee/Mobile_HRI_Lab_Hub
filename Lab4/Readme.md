@@ -81,9 +81,20 @@ Optional: Another example you can try is from [PyTorch](https://pytorch.org/tuto
 Reflect on the following questions:
 
 1. For your favorite prototyped interaction that you have thought of so far, reflect upon how a camera connected to your Pi could be useful.
-2. What issues do you foresee with this setup? 
+
+A camera connected to the Pi would be super useful in practically all of the prototyped interactions we have designed. Because the interactions rely on existing around people and reacting to them, being able to recognize a human (and perhaps the actions / facial expressions of that human) would be critical. In the WoZ setups so far, we have somebody behind the scenes doing all of the human recognition and interaction for the robot. If we want to automate any of it, e.g. we want the mummy robot to automatically turn on its light and start moving quickly as soon as it realized it is recognized and faced, we need a camera.
+
+2. What issues do you foresee with this setup?
+
+One challenge I foresee with the camera on the Pi is that the camera can only see a limited range in front of it. The robot is capable of moving in practically all planar directions, but it has no ability to see to its side or behind it unless it moves its entire body. This could definitely result in some bumping into of things, and especially given the low height of the robot, this could cause the robot to bump into things that cause irreversible damage to the robot.
+
 3. How is the temperature? How is the speed? How is the connection?
+
+When the camera was on, the Pi got really hot. We did have the heat sink, but I imagine that with extended use, this may not be enough and the heat could cause damage to humans that interact with it as well as the robot itself. The speed and connection were somewhat slow, but not of great concern for our applications thus far.
+
 4. How is the view? Would it capture what you might need to see for your prototyped interaction (in question 1)?
+
+The quality of the images coming in from the camera were somewhat low. Additionally, the view that the camera could see were practically ground-level. This means that if it is interacting with people, as it does in our scenarios, it will only see the feet if the robot is on the floor. We care to see the humans feet, as well as their facial reactions in many situations, so some sort of motorized control for the angle of the camera is important to capture our interactions. The mummy robot, for example, will not be totally able to tell if a human has noticed it and is looking at it, if it can only see the feet of the human. It might otherwise rely on being desk-level with a sitting human, but the situation in which the robot would be able to get itself on the table seems unlikely to arise.
 
 
 Labs are due on Tuesdays before class. Make sure this page is linked to on your main class hub page.
@@ -91,6 +102,10 @@ Labs are due on Tuesdays before class. Make sure this page is linked to on your 
 ### Again, deliverables for this lab are: 
 
 0. A screenshot of the working VNC viewer with a working image view.
+
+![Robot Sketches](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab4/terminal.pdf?raw=true)
+https://user-images.githubusercontent.com/36029438/221761446-c2416ced-c59a-4f14-afa6-ec572d05591c.mov
+
 
 1. Answers to the reflection questions in part D. 
 
