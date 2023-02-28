@@ -102,6 +102,8 @@ Labs are due on Tuesdays before class. Make sure this page is linked to on your 
 ### Again, deliverables for this lab are: 
 
 0. A screenshot of the working VNC viewer with a working image view.
+
+
 ![VNC viewer](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab4/terminal.pdf)
 
 
