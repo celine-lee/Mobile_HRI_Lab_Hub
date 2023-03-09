@@ -1,6 +1,12 @@
 # Give the robot moves
 **List the names and NetID for your partners here.**
 
+Celine Lee (cl923)
+
+Arushi Nigam (an452)
+
+Antony Tajan (at674)
+
 Now, let's control our robots to make them move intuitively. 
 
 As you have seen, it's pretty easy to control the wheels with Python! However, it's not easy for us as humans to move the robot in ways that feel right while thinking in terms of individual wheel velocity. If you are a gamer, you might be pretty familiar with controlling avatars with joystick controllers or keyboard keys (WASD). In today's lab, let's map joystick controller commands to wheel velocities in Python.
@@ -316,4 +322,11 @@ Now, press and hold `L1` on your controller and play with the two joysticks. Hop
 ### Again, deliverables for this lab are: 
 
 0. Videos of you controlling the wheels with your joystick controller properly.
-1. Three ideas on how to use controllers' rumble feature for Wizard of Oz.
+[Video of joystick](link goes here)
+
+
+2. Three ideas on how to use controllers' rumble feature for Wizard of Oz.
+
+* one short vibration when somebody takes something off of WaiterBot
+* continual vibration when WaiterBot's trash is full
+* large vibration WaiterBot runs into something or is otherwise occluded somehow.
