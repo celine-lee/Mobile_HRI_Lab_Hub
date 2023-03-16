@@ -1,6 +1,10 @@
 # Final Project Planning
 **List the names and NetID for your partners here.**
+Antony Tahan (at674)
 
+Arushi Nigam (an452)
+
+Celine Lee (cl923) 
 
 Welcome back! Hope you had a relaxing Feburary break. We missed you. 
 
