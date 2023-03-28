@@ -105,7 +105,7 @@ To visualize your LiDAR reading, open foxglove studio in vnc viewer. Then, click
 ### Again, deliverables for this lab are: 
 
 0. Photos of your robot prototype
-![chassis](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab6/chassis.jpeg?raw=true)
+![chassis](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab6/chassis.jpg?raw=true)
 
 1. A video of your robot moving around
 
@@ -113,7 +113,7 @@ We don't have this yet. :( But our wheels are all set up and connected to the jo
 
 
 2. A sketch of a series movements based on your final project
-![storyboard](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab6/storyboard.jpeg?raw=true)
+![storyboard](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab6/storyboard.jpg?raw=true)
 
 
 3. A video showing your robot perform the movements in 2.
