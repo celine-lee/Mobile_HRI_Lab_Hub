@@ -109,7 +109,7 @@ To visualize your LiDAR reading, open foxglove studio in vnc viewer. Then, click
 
 1. A video of your robot moving around
 
-We don't have this yet. :( But our wheels are all set up and connected to the joystick. We adjusted the divisor of the velocity function to make it more acceleration-friendly for our application.
+We don't have this yet. But our wheels are all set up and connected to the joystick. We adjusted the divisor of the velocity function to make it more acceleration-friendly for our application.
 
 
 2. A sketch of a series movements based on your final project
@@ -118,7 +118,7 @@ We don't have this yet. :( But our wheels are all set up and connected to the jo
 
 3. A video showing your robot perform the movements in 2.
 
-nonexistent yet :(
+nonexistent yet.
 
 4. Reflect upon your design, what would you do differently?
 
