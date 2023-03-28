@@ -1,6 +1,12 @@
 # Choreographing Movement
 **List the names and NetID for your partners here.**
 
+ Antony Tahan at674 
+ 
+ Arushi Nigam an452 
+ 
+ Celine Lee cl923
+
 It is about time to have a functioning mobile robot! Starting from this lab, you should prioritize either robot building and/or study design. 
 
 ## Prep
@@ -99,7 +105,21 @@ To visualize your LiDAR reading, open foxglove studio in vnc viewer. Then, click
 ### Again, deliverables for this lab are: 
 
 0. Photos of your robot prototype
+![chassis](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab6/chassis.jpeg?raw=true)
+
 1. A video of your robot moving around
+
+We don't have this yet. :( But our wheels are all set up and connected to the joystick. We adjusted the divisor of the velocity function to make it more acceleration-friendly for our application.
+
+
 2. A sketch of a series movements based on your final project
+![storyboard](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Lab6/storyboard.jpeg?raw=true)
+
+
 3. A video showing your robot perform the movements in 2.
+
+nonexistent yet :(
+
 4. Reflect upon your design, what would you do differently?
+
+We had to iterate on the platforming and wheels a lot, even before they were all assembled together, because of the rigidity and weight of the structure we were putting on top of the board. Moving around that tall and substantial a chair initially seemed it would reduce our mechanical design efforts because it existed as the perfect cocktail table, but it actually ended up being a lot of work to figure out how to properly support it and keep it level using the hoverboard. I think next time we should think more about the role that height plays in robot design.
