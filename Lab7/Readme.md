@@ -135,7 +135,7 @@ We had major obstacles with using the tall table for waiterbot, so after a numbe
 
 [video](https://drive.google.com/file/d/1i8Dp43k3y4KPBLIMpSu4qEViNViASOnQ/view?usp=sharing)
 
-[storyboard](Lab7/storyboard.png)
+[storyboard](storyboard.png)
 
 
 
