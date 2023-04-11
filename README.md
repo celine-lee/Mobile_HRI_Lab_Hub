@@ -19,7 +19,7 @@ Please place links here to the README.md's for each of your labs here:
 
 [Lab 6. Choreographing Movement](Lab6/Readme.md)
 
-[Lab 7. Finding People to Interact with](Lab\ 7/Readme.md)
+[Lab 7. Finding People to Interact with](Lab7/Readme.md)
 
 Lab 8. Chatty Robots
 
