@@ -2,7 +2,11 @@
 **List the names and NetID for your partners here.**
 
 Build off of Lab 3 from last week. This week's material can be done rather quickly.
+Celine Lee (cl923)
 
+Arushi Nigam (an452)
+
+Antony Tajan (at674)
 
 ## Prep
 
