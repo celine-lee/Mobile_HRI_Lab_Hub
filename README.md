@@ -23,5 +23,5 @@ Please place links here to the README.md's for each of your labs here:
 
 Lab 8. Chatty Robots
 
-Final Project
+[Final Project](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/blob/main/Final_Project.md)
 
