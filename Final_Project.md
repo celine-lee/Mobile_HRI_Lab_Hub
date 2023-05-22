@@ -11,6 +11,16 @@ Picnicbot is a robot designed to support picnics. At ~1 foot tall and ~9 square 
 [Link to code for Picnicbot.](https://github.com/Arushi1912/Mobile_HRI_Lab_Hub)
 
 ## Architecture
+
+The architecture of the robot initially started out as a tall stool connected to either side of the hoverboard chassis. We had used the stool stop to connect the two hind legs of the chair to the chassis, and hand-sawed two wooden pieces which the two front legs of the chair fit into. At the bottom of these wooden pieces, we had glued caster (free to rotate) wheels. We then fashioned two cross beams with an inch deep etch in either side to secure the beam on either side. You can see some images of the early design process below:
+![IMG_8418 (1)](https://github.com/antonytahan/Mobile_HRI_Lab_Hub/assets/36029438/cd1d78fe-b0ef-404a-970e-951c24730acc)
+![IMG_8417](https://github.com/antonytahan/Mobile_HRI_Lab_Hub/assets/36029438/8a65d053-0172-4196-b524-e3a79cd8a3fb)
+![final_body](https://github.com/antonytahan/Mobile_HRI_Lab_Hub/assets/36029438/55d83ee6-a404-475c-ab90-96cbbcfcd83f)
+
+
+In practice, however, we found that the structure was too unstable to be used as a longer term solution, so we pivoted to a lower center of mass architecture with a wider flat surface.
+After several iterations of design, we landed on an architecture that utilizes the hoverboard chassis widened more than the default width and its two wheels. The main platform consists of a rectangular wooden board that is clamped on either side to the hoverboard chassis, with a custom cardboard container attached on the hoverboard side to house our electronics used: the Pi, O drive, portable power source for the pi, power source for the O drive, and all associated cables. The overall architecture sketch can be seen below:
+
 ![architecture](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/assets/22714518/543ca47d-fc7b-4530-9b36-78d093bfc06f)
 Components involved:
 * Hoverboard
