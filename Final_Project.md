@@ -2,17 +2,16 @@
 
 by Celine Lee (cl923); Arushi Nigam (an452); Antony Tajan (at674)
 
-Picnicbot is <<description of picnicbot>>. <<Its interactions>>.
+Picnicbot is a robot designed to support picnics. At ~1 foot tall and ~9 square feet flat surface area, Picnicbot brings music, food, drinks, and anything else to human picnicers. It is calibrated to operate at a relatively low speed on grassy and carpeted terrain so that it can effectively and safely carry food of various rigidities.
 
 ![storyboard](Lab6/storyboard.jpg?raw=true)
 ![birthday_storyboard](Lab7/storyboard.png)
 
 ## Code
-
+TO UPLOAD & LINK
 
 ## Architecture
-[]()
-[]()
+[]()TODO
 
 ## Interactions
 A compiled video of interactions with Picnicbot can be found at this link: [Picnicbot movie](https://drive.google.com/file/d/1ZNNgP3XWHHizdWEf-BpbTmtPwc-Q37ql/view?usp=share_link).
@@ -20,12 +19,10 @@ A compiled video of interactions with Picnicbot can be found at this link: [Picn
 An early-study iteration of Picnicbot can be found at this link: [Birthday setting](https://drive.google.com/file/d/12mH_IeXst_O7y7-rBL7wbF19mndPTdtT/view?usp=sharing).
 
 ## Photos
-[]()
+Picnicbot has a flat platform. The electronics are organized on the back end of the chassis, then covered with a rectangular prism. The covering of the electronics serves as a heightened platform so that Picnicbot can carry even more picnic goods. A cylindrical support is constructed on the far end of Picnicbot, away from the electronics, for holding cups of liquid or any other picnic item that is taller and needs vertical support. All constructions are covered with a checkered cloth to reinforce the picnic-like sentiment.
+![picnicbot](picnicbot.jpeg)
 
-## Reflection
-
-
-# Study
+# Interaction Study
 
 The research question studied with Picnicbot is: *How do picnicers perceive Picnicbot when it is inside the picnic circle vs. outside?*
 
