@@ -11,13 +11,14 @@ Picnicbot is a robot designed to support picnics. At ~1 foot tall and ~9 square 
 TO UPLOAD & LINK
 
 ## Architecture
+![architecture](https://github.com/celine-lee/Mobile_HRI_Lab_Hub/assets/22714518/543ca47d-fc7b-4530-9b36-78d093bfc06f)
 Components involved:
 * Hoverboard
 * Raspberri Pi
 * Plywood, cardboard, cloth platform
 * Clamps
 * Odrive
-* Bluetooth joystick controller
+* Bluetooth joystick controllerg
 
 ## Interactions
 A compiled video of interactions with Picnicbot can be found at this link: [Picnicbot movie](https://drive.google.com/file/d/1ZNNgP3XWHHizdWEf-BpbTmtPwc-Q37ql/view?usp=share_link).
