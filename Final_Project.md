@@ -11,7 +11,13 @@ Picnicbot is a robot designed to support picnics. At ~1 foot tall and ~9 square 
 TO UPLOAD & LINK
 
 ## Architecture
-[]()TODO
+Components involved:
+* Hoverboard
+* Raspberri Pi
+* Plywood, cardboard, cloth platform
+* Clamps
+* Odrive
+* Bluetooth joystick controller
 
 ## Interactions
 A compiled video of interactions with Picnicbot can be found at this link: [Picnicbot movie](https://drive.google.com/file/d/1ZNNgP3XWHHizdWEf-BpbTmtPwc-Q37ql/view?usp=share_link).
@@ -30,6 +36,7 @@ Our intuition is that when Picnicbot is inside the circle, picnicers will treat 
 
 ## Experimental Setup
 To test this question, we ran two studies, one for each of the settings:
+
 **1: Inside:** Picnicbot turning within the circle of participants.
 Study 1 had 4 participants sitting in a circle on the floor, with Picnicbot in the center. Picnicbot has a speaker playing music and snacks on it. Participants are asked to enjoy the picnic, with no instructions of how exactly to interact with Picnicbot. 
 Picnicbot is remotely operated in a Wizard-of-Oz fashion. As we see picnicers with or without food in hand, we turn Picnicbot toward that picnicer. In the idle time, Picnicbot usually stays still or idly turns. 
